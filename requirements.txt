@@ -1,0 +1,9 @@
+transformers==5.23.0
+torch==2.15.0
+datasets==5.2.0
+rouge-score==0.1.2
+nltk==3.10.0
+pandas==3.0.3
+scipy==1.18.0
+openpyxl==3.1.5
+tqdm==4.68.2
